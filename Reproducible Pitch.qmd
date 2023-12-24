@@ -1,0 +1,34 @@
+---
+title: "Reproducible Pitch"
+author: "Marek Chadim"
+format: revealjs
+editor: visual
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Overview
+
+A simple prediction algorithm using R datasets package diamonds
+
+
+## Reference
+
+Shiny app
+
+https://egozd7-marek-chadim.shinyapps.io/Shiny/
+
+Gitub repo
+
+https://github.com/marek-chadim/Shiny-Application-and-Reproducible-Pitch.git
+
+## Data 
+
+53940 diamond observations with 10 characterisitcs
+
+```{r, echo=TRUE}
+library("ggplot2")
+head(diamonds)
+```
