@@ -1,4 +1,4 @@
-# Johns Hopkins University Reproducible Research
+# Johns Hopkins University Developing Data Products
 Taught by: Roger D. Peng, PhD, Jeff Leek, PhD & Brian Caffo, PhD
 
 Shiny app
